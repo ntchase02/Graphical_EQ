@@ -47,9 +47,30 @@
     \setlength{\parindent}{30pt}
     \fontsize{12pt}{12pt}\selectfont
 
-   The following section will be used as an exercise deriving the transfer functions of second order
-    RC Low Pass and High Pass filters.
+    The following section will be used as an exercise deriving the transfer functions of second order
+    RC Low Pass and High Pass filters. The filters that make up the graphical EQ will be a combination of
+    cascaded second order high pass and low pass filters coupled using operational amplifiers as buffers to
+    prevent the first filter from loading the second filter. A filter is a circuit that allows spectral components
+    of a signal within a certain bandwidth to pass to its output while attenuating other components of the 
+    signal outside of the bandwidth. If a signal is thought of as a mixture, a filter can be thought of as
+    a means by wich to separate desirable components and discard undesirable portions of a signal.
+     An RC filter uses resistors and capacitors to achieve this separation.
 
+    The first filter we will look at is the second order low pass filter formed by cascading 2 RC low pass filters:
+
+    
+        \begin{center} \includegraphics{LPF.png}  
+            
+            \textbf{Figure 1.} Second Order RC Lowpass Filter \end{center} 
+
+            \vspace{.5in}
+
+    The above circuit, figure 1, is the schematic for the second order low pass filter. The Capacitors act as a means to short high frequency signals/signal components to ground
+    while allowing low frequency components to pass to the output. Note that there are 3 nodes of interest in this circuit: The input $V_{in}$, $V_{1}$, and the output $V_{out}$.
+    These nodes will be of direct interest for our derivation of the transfer function of this circuit. The resistors $R_{1}$ and $R_{2}$, as well as, the capacitors
+    $C_{1}$ and $C_{2}$ are used to tune the bandwidth and the damping/quality factor of the circuit.
+
+            
 \end{flushleft}
  
 \end{document}

@@ -1,7 +1,15 @@
 # Fdb version 4
-["pdflatex"] 1751965699 "e:/Graphical_EQ/Documentation/Calculations/calculations.tex" "calculations.pdf" "calculations" 1751965700 0
+["pdflatex"] 1751966964 "e:/Graphical_EQ/Documentation/Calculations/calculations.tex" "calculations.pdf" "calculations" 1751966965 0
+  "C:/Users/Ntcha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746617859 1610387 5264f15ca1c21800de7547fe388a33e3 ""
   "C:/Users/Ntcha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1675131302 10785261 aa470261c4799941e95876d1fcb0ba88 ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsl10.tfm" 1136768653 1508 efecb4a315fe0975509670a272d75ef5 ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1644000708 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty" 1644000708 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -25,9 +33,9 @@
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1655058252 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1661885168 30282 33c465a64f2bd5ad4a68a7b2f555a29b ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/latex/tabbing/Tabbing.sty" 1656242946 1902 adbd5beda8bed7e448fbefc66586e154 ""
-  "calculations.aux" 1751965700 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "calculations.tex" 1751965696 410 2e1a48fda6af11d54211f40e59754693 ""
-  "e:/Graphical_EQ/Documentation/Calculations/calculations.tex" 1751965696 410 2e1a48fda6af11d54211f40e59754693 ""
+  "calculations.aux" 1751966965 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "calculations.tex" 1751966963 1280 7f9386eb67c5bcf7255fd5500e7db07c ""
+  "e:/Graphical_EQ/Documentation/Calculations/calculations.tex" 1751966963 1280 7f9386eb67c5bcf7255fd5500e7db07c ""
   (generated)
   "calculations.aux"
   "calculations.log"

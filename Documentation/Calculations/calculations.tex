@@ -65,12 +65,37 @@
 
             \vspace{.5in}
 
-    The above circuit, figure 1, is the schematic for the second order low pass filter. The Capacitors act as a means to short high frequency signals/signal components to ground
+    The above circuit, figure 1, is the schematic for the second order low pass filter. The capacitors act as a means to short high frequency signals/signal components to ground
     while allowing low frequency components to pass to the output. Note that there are 3 nodes of interest in this circuit: The input $V_{in}$, $V_{1}$, and the output $V_{out}$.
     These nodes will be of direct interest for our derivation of the transfer function of this circuit. The resistors $R_{1}$ and $R_{2}$, as well as, the capacitors
-    $C_{1}$ and $C_{2}$ are used to tune the bandwidth and the damping/quality factor of the circuit.
+    $C_{1}$ and $C_{2}$ are used to tune the bandwidth and the damping/quality factor of the circuit. Working in the frequency domain will of interest because it greatly simplifies
+    calculations, turning differential equations and integration into simple algebraic manipulations. In the frequency domain resistors will be uneffected and retain their values ($R_{1}$ and $R_{2}$ in this case)
+    while capacitors will introduce a pole onto the complex plane with an impedance $\frac{1}{C s}$, where C is the capacitance of the capacitor and $s= \sigma + j \omega $. 
+    
+    The transfer function of this schematic is of 
+    direct interest, not only because it gives us the relationship between the input and output of the circuit, but also because it allows us to estimate the frequency response of the circuit in our design. 
+    By setting $s=j \omega$, the frequency response can be estimated for the circuit essentially telling us how the circuit will
+    respond as a function of frequency in radians/second. This is especially important when designing filters because it allows us
+    to estimate the bandwidth of the filter, how steep its roll off is, and whether or not the filter will sufficiently remove 
+    undesired components. 
+    
+    From figure 1, two relationships between voltages in the circuit should be clear when performing KVL and KCL throughout the circuit:
 
-            
+    \[ V_{out} =V_{1} \cdot   \frac{\frac{1}{C_{2}s}}{R_{2} + \frac{1}{C_{2}s}} = V_{1} \cdot \frac{1}{R_{2}C_{2}s +1} \]
+
+    and,
+
+   \[V_{1} = V_{in} \cdot \frac{(R_{2} + \frac{1}{C_{2}s})||\frac{1}{C_{1}s}}{R_{1} + (R_{2} + \frac{1}{C_{2}s})||\frac{1}{C_{1}s}}\] 
+
+   The expression for V1 can then be further simplified and manipulated,
+
+   \[V_{1} = V_{in} \cdot \frac{\frac{(R_{2} + \frac{1}{C_{2}s})\frac{1}{C_{1}s}}{R_{2} + \frac{1}{C_{2}s} + \frac{1}{C_{1}s}}}{R_{1} + \frac{(R_{2} + \frac{1}{C_{2}s})\frac{1}{C_{1}s}}{R_{2} + \frac{1}{C_{2}s} + \frac{1}{C_{1}s}}} \]
+
+
+   \[V_{1} = V_{in} \cdot \frac{(R_{2} + \frac{1}{C_{2}s})\frac{1}{C_{1}s}}{R_{1}(R_{2} + \frac{1}{C_{2}s} + \frac{1}{C_{1}s}) + R_{2} + \frac{1}{C_{2}s}}\]
+
+
+
 \end{flushleft}
  
 \end{document}

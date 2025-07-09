@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1752015480 "e:/Graphical_EQ/Documentation/Calculations/calculations.tex" "calculations.pdf" "calculations" 1752015481 0
+["pdflatex"] 1752019341 "e:/Graphical_EQ/Documentation/Calculations/calculations.tex" "calculations.pdf" "calculations" 1752019342 0
   "C:/Users/Ntcha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746617859 1610387 5264f15ca1c21800de7547fe388a33e3 ""
   "C:/Users/Ntcha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1675131302 10785261 aa470261c4799941e95876d1fcb0ba88 ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
@@ -17,10 +17,13 @@
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1247596666 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
+  "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1644000708 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty" 1644000708 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -45,9 +48,9 @@
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1661885168 30282 33c465a64f2bd5ad4a68a7b2f555a29b ""
   "C:/Users/Ntcha/AppData/Local/Programs/MiKTeX/tex/latex/tabbing/Tabbing.sty" 1656242946 1902 adbd5beda8bed7e448fbefc66586e154 ""
   "LPF.png" 1752014564 3431 4f30b1ebd2ca4da7b5d988595c35c254 ""
-  "calculations.aux" 1752015480 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "calculations.tex" 1752015479 2911 c85301ad5049dd057c383c4dc44bb0f8 ""
-  "e:/Graphical_EQ/Documentation/Calculations/calculations.tex" 1752015479 2911 c85301ad5049dd057c383c4dc44bb0f8 ""
+  "calculations.aux" 1752019341 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
+  "calculations.tex" 1752019340 4952 0198abaaa6a27f01b31550824d6ffe86 ""
+  "e:/Graphical_EQ/Documentation/Calculations/calculations.tex" 1752019340 4952 0198abaaa6a27f01b31550824d6ffe86 ""
   (generated)
   "calculations.aux"
   "calculations.log"
